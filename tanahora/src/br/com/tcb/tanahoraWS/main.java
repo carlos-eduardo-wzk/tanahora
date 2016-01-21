@@ -9,8 +9,7 @@ public class main {
 	public main() throws SQLException {
 		
 		Connection conn = ConectaMySql.obtemConexao();
-		int a ;
-		
+		int ab;
 	
 	}
 }
